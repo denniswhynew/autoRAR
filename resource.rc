@@ -1,0 +1,6 @@
+#ifndef _autoRAR_rc
+#define _autoRAR_rc
+
+MAINICON ICON "icon.ico"
+
+#endif
